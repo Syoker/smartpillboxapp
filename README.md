@@ -2,7 +2,7 @@
 An app to manage your SmartPillbox product.
 
 ## Compatibility
-- Android 6 and higher.
+- Android 4.3 and higher.
 - No support for IOS yet (in reality yes, but I dont have a form to check it).
 
 ## Notes
