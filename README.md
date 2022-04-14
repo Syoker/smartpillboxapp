@@ -9,5 +9,5 @@ An app to manage your SmartPillbox product.
 - This is a school project, not a serious or professional project.
 
 ## Changelog
-### v0.1.00
+### v0.1.0
 - Initial build
